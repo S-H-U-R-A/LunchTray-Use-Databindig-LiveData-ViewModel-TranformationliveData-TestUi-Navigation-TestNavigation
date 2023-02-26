@@ -1,0 +1,484 @@
+# 2023-02-26T12:58:20.776Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 9
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_checkout"
+    start_time {
+      seconds: 1677416290
+      nanos: 147000000
+    }
+    end_time {
+      seconds: 1677416291
+      nanos: 378000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_entree_menu"
+    start_time {
+      seconds: 1677416291
+      nanos: 633000000
+    }
+    end_time {
+      seconds: 1677416292
+      nanos: 481000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_checkout_from_accompaniment_menu"
+    start_time {
+      seconds: 1677416292
+      nanos: 762000000
+    }
+    end_time {
+      seconds: 1677416293
+      nanos: 557000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\logcat-com.example.lunchtray.NavigationTests-navigate_to_checkout_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_entree_menu_from_start_order"
+    start_time {
+      seconds: 1677416293
+      nanos: 813000000
+    }
+    end_time {
+      seconds: 1677416294
+      nanos: 502000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\logcat-com.example.lunchtray.NavigationTests-navigate_to_entree_menu_from_start_order.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_checkout_via_submit"
+    start_time {
+      seconds: 1677416294
+      nanos: 784000000
+    }
+    end_time {
+      seconds: 1677416295
+      nanos: 551000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout_via_submit.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_accompaniment_menu"
+    start_time {
+      seconds: 1677416295
+      nanos: 831000000
+    }
+    end_time {
+      seconds: 1677416296
+      nanos: 526000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_accompaniment_menu_from_side_menu"
+    start_time {
+      seconds: 1677416296
+      nanos: 835000000
+    }
+    end_time {
+      seconds: 1677416297
+      nanos: 476000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\logcat-com.example.lunchtray.NavigationTests-navigate_to_accompaniment_menu_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_side_menu"
+    start_time {
+      seconds: 1677416297
+      nanos: 782000000
+    }
+    end_time {
+      seconds: 1677416298
+      nanos: 473000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_side_menu_from_entree_menu"
+    start_time {
+      seconds: 1677416298
+      nanos: 754000000
+    }
+    end_time {
+      seconds: 1677416299
+      nanos: 469000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\logcat-com.example.lunchtray.NavigationTests-navigate_to_side_menu_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\sandr\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\motorola one vision - 11\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

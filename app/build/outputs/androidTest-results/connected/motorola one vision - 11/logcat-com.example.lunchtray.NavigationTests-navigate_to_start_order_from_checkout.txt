@@ -1,0 +1,85 @@
+02-26 07:58:09.450 31915 31937 I TestRunner: started: navigate_to_start_order_from_checkout(com.example.lunchtray.NavigationTests)
+02-26 07:58:09.491 31915 31937 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+02-26 07:58:09.647 31915 31915 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79 in: PRE_ON_CREATE
+02-26 07:58:09.649 31915 31915 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79
+02-26 07:58:09.651  4521  4536 V echo-service: [ExynosThermal] Sensor [tmu_little] temp(41000)
+02-26 07:58:09.651  4521  4536 V echo-service: [ExynosThermal] Sensor [tmu_big] temp(46000)
+02-26 07:58:09.651  4521  4536 V echo-service: [ExynosThermal] Sensor [tmu_gpu] temp(43000)
+02-26 07:58:09.651  4521  4536 V echo-service: [ExynosThermal] Sensor [tmu_isp] temp(41000)
+02-26 07:58:09.652  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_soc] temp(35662)
+02-26 07:58:09.652  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_bat] temp(31511)
+02-26 07:58:09.652  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_soc] temp(35688)
+02-26 07:58:09.653  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_bat] temp(31511)
+02-26 07:58:09.653  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_pa] temp(33483)
+02-26 07:58:09.653  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_board] temp(33665)
+02-26 07:58:09.653  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_usb_con] temp(31856)
+02-26 07:58:09.653  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_chg] temp(35100)
+02-26 07:58:09.673 31915 31915 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79 in: CREATED
+02-26 07:58:09.673 31915 31915 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79
+02-26 07:58:09.677 31915 31915 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79 in: STARTED
+02-26 07:58:09.677 31915 31915 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79
+02-26 07:58:09.685  4321  4365 E BufferQueueProducer: [com.motorola.launcher3/com.android.a1launcher.AndroidOneLauncher#0](id:10e100000093,api:0,p:-1,c:4321) disconnect: not connected (req=1)
+02-26 07:58:09.685  4321  4373 E BufferQueueProducer: [com.motorola.launcher3/com.android.a1launcher.AndroidOneLauncher#1](id:10e100000094,api:0,p:-1,c:4321) disconnect: not connected (req=1)
+02-26 07:58:09.685  5403  7621 W libEGL  : EGLNativeWindowType 0x7a8f713b60 disconnect failed
+02-26 07:58:09.685  7324  8245 W libEGL  : EGLNativeWindowType 0x7a8f6f1a60 disconnect failed
+02-26 07:58:09.708 31915 31915 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79 in: RESUMED
+02-26 07:58:09.709 31915 31915 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79
+02-26 07:58:09.734 31915 31915 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79 in: PAUSED
+02-26 07:58:09.735 31915 31915 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79
+02-26 07:58:09.735  7393  7393 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+02-26 07:58:09.736  7393  7866 I GsaVoiceInteractionSrv: Not stopping hotword, hotword should keep running.
+02-26 07:58:09.784 31915 31915 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7ad4ab3 in: PRE_ON_CREATE
+02-26 07:58:09.785 31915 31915 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+02-26 07:58:09.828 31915 31915 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7ad4ab3 in: CREATED
+02-26 07:58:09.829 31915 31915 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7ad4ab3
+02-26 07:58:09.832 31915 31915 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7ad4ab3 in: STARTED
+02-26 07:58:09.832 31915 31915 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7ad4ab3
+02-26 07:58:09.834 31915 31915 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7ad4ab3 in: RESUMED
+02-26 07:58:09.834 31915 31915 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7ad4ab3
+02-26 07:58:09.930  3704  3704 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device manifest.
+02-26 07:58:09.931 31915 31939 I Gralloc4: mapper 4.x is not supported
+02-26 07:58:09.933  3704  3704 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@3.0::IMapper/default in either framework or device manifest.
+02-26 07:58:09.933 31915 31939 W Gralloc3: mapper 3.x is not supported
+02-26 07:58:09.937 31915 31939 I gralloc : Arm Module v1.0
+02-26 07:58:09.975  4774  4798 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.lunchtray/1/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity/compiled_traces/compiled_trace.pb doesn't exist
+02-26 07:58:09.976  4774  4798 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +457ms
+02-26 07:58:10.109 31915 31915 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79 in: STOPPED
+02-26 07:58:10.110 31915 31915 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5e8ee79
+02-26 07:58:10.153  6184  6184 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3302
+02-26 07:58:10.154  6184  6184 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2152 repeatCheckTimes = 0, unlocked = true
+02-26 07:58:10.155  6184  6184 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1930 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null}, false)
+02-26 07:58:10.155  6184  6184 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4116 ShouldHideHeaderOnInitialState = false
+02-26 07:58:10.156  6184  6184 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2152 repeatCheckTimes = 2, unlocked = true
+02-26 07:58:10.223  6019  6019 I NearbySharing: SharingTileService destroyed [CONTEXT service_id=194 ]
+02-26 07:58:10.309  5700  8323 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+02-26 07:58:10.309  5700  8323 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+02-26 07:58:10.312  5700  8323 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+02-26 07:58:10.313 31915 31937 D EventInjectionStrategy: Creating injection strategy with input manager.
+02-26 07:58:10.313 31915 31937 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (greylist, reflection, allowed)
+02-26 07:58:10.314 31915 31937 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (greylist, reflection, allowed)
+02-26 07:58:10.314 31915 31937 W ample.lunchtra: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (greylist, reflection, allowed)
+02-26 07:58:10.322  4966  6550 I ndroid.systemu: Explicit concurrent copying GC freed 74290(2854KB) AllocSpace objects, 3(60KB) LOS objects, 49% free, 6411KB/12MB, paused 220us total 91.910ms
+02-26 07:58:10.323  5700  8323 I FontLog : Pulling font file for id = 68, cache size = 14 [CONTEXT service_id=132 ]
+02-26 07:58:10.329  4966  4982 W System  : A resource failed to call release.
+02-26 07:58:10.329 31915 31937 W ample.lunchtra: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (greylist, reflection, allowed)
+02-26 07:58:10.331  5700  8323 I FontLog : Pulling font file for id = 68, cache size = 14 [CONTEXT service_id=132 ]
+02-26 07:58:10.335 31915 31915 W ample.lunchtra: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (greylist, reflection, allowed)
+02-26 07:58:10.336 31915 31915 W ample.lunchtra: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (greylist, reflection, allowed)
+02-26 07:58:10.336 31915 31915 W ample.lunchtra: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (greylist, reflection, allowed)
+02-26 07:58:10.339 31915 31915 W ample.lunchtra: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (greylist, reflection, allowed)
+02-26 07:58:10.339 31915 31915 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (greylist, reflection, allowed)
+02-26 07:58:10.339 31915 31915 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (greylist, reflection, allowed)
+02-26 07:58:10.343 31915 31915 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.example.lunchtray:id/cancel_button>
+02-26 07:58:10.654  4521  4536 V echo-service: [ExynosThermal] Sensor [tmu_little] temp(41000)
+02-26 07:58:10.654  4521  4536 V echo-service: [ExynosThermal] Sensor [tmu_big] temp(44000)
+02-26 07:58:10.654  4521  4536 V echo-service: [ExynosThermal] Sensor [tmu_gpu] temp(42000)
+02-26 07:58:10.654  4521  4536 V echo-service: [ExynosThermal] Sensor [tmu_isp] temp(41000)
+02-26 07:58:10.658  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_soc] temp(35790)
+02-26 07:58:10.659  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_bat] temp(31405)
+02-26 07:58:10.659  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_soc] temp(35815)
+02-26 07:58:10.660  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_bat] temp(31405)
+02-26 07:58:10.660  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_pa] temp(33512)
+02-26 07:58:10.661  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_board] temp(33601)
+02-26 07:58:10.661  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_usb_con] temp(31810)
+02-26 07:58:10.662  4521  4536 V echo-service: [ExynosThermal] Sensor [therm_chg] temp(35100)
+02-26 07:58:10.673 31915 31937 I TestRunner: finished: navigate_to_start_order_from_checkout(com.example.lunchtray.NavigationTests)
